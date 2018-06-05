@@ -9,7 +9,7 @@ Custom Wialon app to display logged in user and their units.
 
 ## Requirements
  * Browser: Google Chome 20+, Firefox 15+, Safari 5+, IE 9+, Opera 10+
- * Language: en, ru
+ * Language: en
  * Components: SDK
  * URL params: Active SID, Base URL, Host URL, Current user
 
