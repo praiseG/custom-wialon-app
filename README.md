@@ -1,4 +1,4 @@
-# custom-wialon-app
+# custom-wialon-app, Version 1.0.0
 Simple custom Wialon app
 
 ## Description
